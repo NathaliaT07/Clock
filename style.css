@@ -26,7 +26,7 @@ body.dark{
     --primary-color: #242526;
     --white-color: #18191a;
     --black-color: #fff;
-    --red-color: #ff8fec;
+    --red-color: rgb(204, 127, 146);
 }
 
 
