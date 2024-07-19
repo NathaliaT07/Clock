@@ -9,7 +9,7 @@
     --primary-color: #f6f7fb;
     --white-color: #fff;
     --black-color:#18191e;
-    --red-color: #ff8fec;
+    --red-color: #DB7093;
 }
 
 body{
@@ -26,7 +26,7 @@ body.dark{
     --primary-color: #242526;
     --white-color: #18191a;
     --black-color: #fff;
-    --red-color: rgb(204, 127, 146);
+    --red-color: #DB7093;
 }
 
 
